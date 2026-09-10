@@ -1,3 +1,3 @@
-import _ from "lodash";
-console.log(_.last(["one", "two"]));
-console.log("Hello, Hexlet!");
+import run from "./src/index.js";
+
+run();
